@@ -6,7 +6,7 @@ Users can insert an image-url and check if a face is in their picture. If a face
 This project was used as a learning project.
 
 # Screenshot
-![screenshot](facedetection_screenshot.png = 150x)
+![screenshot](facedetection_screenshot.png =150x)
 
 # Learned Concepts
 * React 
