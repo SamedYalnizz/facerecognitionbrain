@@ -15,6 +15,7 @@ This project was used as a learning project.
 * ## Node
 * Modules, fs & http,
 * Express.js
+* Cross-Origin Resources Sharing (CORS)
 
 
 
