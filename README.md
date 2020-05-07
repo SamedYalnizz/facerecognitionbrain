@@ -9,9 +9,14 @@ This project was used as a learning project.
 ![screenshot](facedetection_screenshot.png)
 
 # Learned Concepts
-* React 
+* ## React 
 * Image Recognition API usage (https://www.clarifai.com/)
 * Routing with React
+* ## Node
+* Modules, fs & http,
+* Express.js
+
+
 
 # Installation
 1. Clone this repository

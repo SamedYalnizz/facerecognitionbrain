@@ -10,6 +10,7 @@ import Logo from './components/Logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 
+
 const app = new Clarifai.App({
   apiKey: '20085eee4bd3470f83faacb4e380b430'
 });
@@ -37,6 +38,13 @@ class App extends Component {
       route: 'signin',
       isSignedIn: false,
     }
+  }
+
+  componentDidMount() {
+    console.log("yes")
+    fetch('http://localhost:3000/')
+      .then(response => response.json())
+      .then(console.log);
   }
 
   calculateFaceLocation = (data) => {
