@@ -8,7 +8,7 @@ This project was used as a learning project.
 ![screenshot](facedetection_screenshot.png)
 
 # This is the Frontend
-You can find the backend here: LINK
+You can find the backend here: https://github.com/SamedYalnizz/facerecognitionbrain-api
 
 # Learned Concepts
 * ## React 
@@ -23,8 +23,11 @@ You can find the backend here: LINK
 # Acknowledgment
 This project was done as part of the Udemy Zero To Mastery Course by [Andrei Neagoie](https://github.com/aneagoie)
 
+# To Do:
+* Error Messages 
+* Folder Structure
+* DRY (Refactoring) 
+
 # Project status
 As this project was done for learning purposes only. 
 
-# Additional Features
-* To Do: Error Handling
