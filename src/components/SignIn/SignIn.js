@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 
-
 class SignIn extends Component{
     constructor(props){
         super(props);
@@ -30,7 +29,8 @@ class SignIn extends Component{
                 this.props.loadUser(user)
                 this.props.onRouteChange('home');
             }
-        })  
+        })
+        .catch(err => console.log(err))
     }
 
     render(){
