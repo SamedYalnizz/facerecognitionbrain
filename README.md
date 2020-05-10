@@ -14,6 +14,7 @@ You can find the backend here: https://github.com/SamedYalnizz/facerecognitionbr
 * ## React 
 * Image Recognition API usage (https://www.clarifai.com/)
 * Routing with React
+* Deployment to heroku
 
 # Installation
 1. Clone this repository
